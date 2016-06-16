@@ -13,10 +13,9 @@
             		margin-top: -570px;
             		margin-left: 20px;
             }
-            
         }
 
-        @media screen and  (max-width: 1400px) {
+        @media screen and (min-width: 1200px) and (max-width: 1400px) {
             #acomodo {
                 margin-left: 230px;
             }
@@ -30,10 +29,9 @@
             		margin-top: -570px;
             		margin-left: 20px;
             }
-           
         }
 
-        @media screen  and (max-width: 1199px) {
+        @media screen and (min-width: 1000px) and (max-width: 1199px) {
             #acomodo {
                 margin-left: 180px;
             }
@@ -47,10 +45,9 @@
             		margin-top: -570px;
             		margin-left: 15px;
             }
-
         }
 
-        @media screen and (max-width: 999px) {
+        @media screen and (min-width: 800px) and (max-width: 999px) {
             #acomodo {
                 margin-left: 110px;
             }
@@ -60,11 +57,14 @@
                 #mapa1{
             	margin-left: 20px;
             }
-           
+            #mapa2{
+            		margin-top: -570px;
+            		margin-left: 10px;
+            }
         }
 
 
-        @media screen and (max-width: 700px) {
+        @media screen and (min-width: 700px) and (max-width: 799px) {
             #acomodo {
                 margin-left: 110px;
             }
@@ -78,121 +78,5 @@
             		margin-top: -570px;
             		margin-left: 10px;
             }
-          
-        }
-        @media screen and (max-width:435px) {
-        	
-            #acomodo {
-                margin-left: 0px;
-            }
-            #acomodo1 {
-                margin-left: 0px;
-            }
-             
-             #mapa1{
-          	
-   			 margin-left: 30px;
-    		width: 350px;
-    		height: 400px;
-            }
-            #mapa2{
-          	margin-top: 0px;
-   			 margin-left: 30px;
-    		width: 350px;
-    		height: 400px;
-            }
-
-        }
-
-		@media screen and (max-width:384px) {
-			
-            #acomodo {
-                margin-left: 0px;
-            }
-            #acomodo1 {
-                margin-left: 0px;
-            }
-             
-             #mapa1{
-          	
-   			 margin-left: 30px;
-    		width: 350px;
-    		height: 400px;
-            }
-            #mapa2{
-          	margin-top: 0px;
-   			 margin-left: 30px;
-    		width: 350px;
-    		height: 400px;
-            }
-            
-
-		}
-        @media screen and (max-width:375px) {
-        	   #acomodo {
-                margin-left: 0px;
-            }
-            #acomodo1 {
-                margin-left: 0px;
-            }
-             
-             #mapa1{
-          	
-   			 margin-left: 30px;
-    		width: 300px;
-    		height: 400px;
-            }
-            #mapa2{
-          	margin-top: 0px;
-   			 margin-left: 30px;
-    		width: 300px;
-    		height: 400px;
-            }	
-
-        }
-		@media screen and (max-width:360px) {
-			
-            #acomodo {
-                margin-left: 0px;
-            }
-            #acomodo1 {
-                margin-left: 0px;
-            }
-             
-             #mapa1{
-          	
-   			 margin-left: 30px;
-    		width: 300px;
-    		height: 400px;
-            }
-            #mapa2{
-          	margin-top: 0px;
-   			 margin-left: 30px;
-    		width: 300px;
-    		height: 400px;
-            }	
-		}
-        @media screen and (max-width:320px) {
-        	
-              #acomodo {
-                margin-left: 0px;
-            }
-            #acomodo1 {
-                margin-left: 0px;
-            }
-             
-             #mapa1{
-          	
-   			 margin-left: 30px;
-    		width: 260px;
-    		height: 300px;
-            }
-            #mapa2{
-          	margin-top: 0px;
-   			 margin-left: 30px;
-    		width: 260px;
-    		height: 300px;
-            }	
-            
         }
     </style>
