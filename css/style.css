@@ -730,11 +730,9 @@ ul.social li a.youtube:hover {
 }
 
 .copyright {
-    position: 
     text-align: center;
     padding: 30px 0;
     border-top: 3px solid #cc3333;
-    background: rgba(0, 0, 0, .3); height: 40%;
 }
 .copyright p {
     color: #FFF;
@@ -747,9 +745,7 @@ ul.social li a.youtube:hover {
     color: #009688;
     text-decoration: underline;
 }
-.copyright img{
 
-}
 #toTop {
     display: none;
     text-decoration: none;
@@ -1716,15 +1712,6 @@ ul.social li a.youtube:hover {
     margin: 0 0 -1px 0;
     font: 400 16px/36px "Montserrat", sans-serif;
     padding: 0 5px 0 0
-}
-
-.bar-wrap {
-        height: 10%;
-        margin-top: -10px;
-    }
-.bar-wrap img{
-    margin-top: -20px;
-    width: 5%; margin-left: 10px;
 }
 
 /*--- //Responsive Code ---*/
